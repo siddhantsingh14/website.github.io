@@ -12,7 +12,7 @@ body {
   .container {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 3rem;
     padding: 1rem;
   }
   
@@ -35,7 +35,7 @@ body {
   }
 
   p {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   .icons {
@@ -45,7 +45,7 @@ body {
   .icons a {
     margin-right: 1rem;
     color: white;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-decoration: none;
     transition: color 0.3s;
   }
